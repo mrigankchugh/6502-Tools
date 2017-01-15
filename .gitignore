@@ -1,0 +1,6 @@
+*.bin
+*.set
+*.o
+Icon?
+bdos.s
+a.out
